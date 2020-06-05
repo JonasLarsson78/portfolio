@@ -21,7 +21,7 @@
         ><br />
         mina projekt och färdigheter.
         <span>Här finns också kontaktuppgifter och en</span><br />
-        presentation om vem jag är.<span>Hoppas ni tycker om vad ni ser. </span
+        presentation om vem jag är.<span> Hoppas ni tycker om vad ni ser. </span
         ><br /><br />
         Jonas Larsson
       </div>
