@@ -87,7 +87,7 @@ export default {
   flex-wrap: wrap;
 }
 .projectItems {
-  margin: 40px;
+  margin: 20px;
 }
 .projectShort {
   margin-left: 10px;
