@@ -55,6 +55,24 @@ export const data = [
   },
   {
     id: '4',
+    name: 'Chat',
+    img: 'chat',
+    description:
+      'I en av våra första LABar i skolan skulle vi bygga en chatcient med backend. Den är byggd med React.js ,Node.js och Socket.io',
+    short: 'En chatcient...',
+    webpage: [
+      {
+        page: 'Github Frontend',
+        url: 'https://github.com/JonasLarsson78/mandatory-advanced-js1',
+      },
+      {
+        page: 'Github Backend',
+        url: 'https://github.com/JonasLarsson78/mandatory-advanced-js1_backend',
+      },
+    ],
+  },
+  {
+    id: '5',
     name: 'Slot Machine',
     img: 'slot',
     description:
@@ -72,12 +90,12 @@ export const data = [
     ],
   },
   {
-    id: '5',
+    id: '6',
     name: 'My BOX',
     img: 'mybox',
     description:
       'Detta är ett grupparbete från skolan som är byggt i React.js och Dropbox API.',
-    short: 'Grupparbete från skolan...',
+    short: 'Grupparbete skolan...',
     webpage: [
       {
         page: 'My BOX',
@@ -88,5 +106,28 @@ export const data = [
         url: 'https://github.com/JonasLarsson78/mandatory-advanced-js5',
       },
     ],
+  },
+  {
+    id: '7',
+    name: 'GSI',
+    img: 'hus',
+    description:
+      'På vår första LIA fick vi hjälpa till att ta fram en applikation som skulle hjälpa till att röja längs kraftledningar. GSI för elnätbolag.',
+    short: 'LIA1 Project...',
+    webpage: [
+      {
+        page: 'YouTube',
+        url: 'https://www.youtube.com/watch?v=dLZUcwZ_JkQ&feature=emb_logo',
+      },
+    ],
+  },
+  {
+    id: '8',
+    name: 'Chatbot Leif',
+    img: 'bot',
+    description:
+      'På min andra LIA fick vi hjälpa till att snygga till en Chatbot som Länsförsäkringar använder till sin kundtjänst. Man kan ställa frågorna till Leif istället för att störa sina kolleger och får där med ett effektivare arbete En digital kollega.',
+    short: 'LIA2 Project...',
+    webpage: [],
   },
 ];

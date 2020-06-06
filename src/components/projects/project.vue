@@ -12,7 +12,9 @@
           :src="getImgUrl(this.project.img)"
           alt="test"
         />
-        <div class="projectLinkText">Länkar till projektet:</div>
+        <div v-if="project.webpage.length" class="projectLinkText">
+          Länkar till projektet:
+        </div>
         <div class="projectLinkContainer">
           <div v-for="(web, index) in project.webpage" :key="index">
             <a class="projectLink" :href="web.url">{{ web.page }}</a>

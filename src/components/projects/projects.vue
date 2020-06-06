@@ -2,7 +2,7 @@
   <div class="projectsContainer">
     <Header />
     <Meny />
-    <div class="projectItem">Mina projekt:</div>
+    <div class="projectItem">Några av mina projekt:</div>
     <hr class="projectHr" />
     <div class="projectItemContainer">
       <div class="projectItems" v-for="project in projects" :key="project.id">
