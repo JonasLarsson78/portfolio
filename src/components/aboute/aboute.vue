@@ -50,7 +50,7 @@ export default {
   position: relative;
   left: 50%;
   transform: translate(-50%);
-  width: 280px;
+  width: 200px;
 }
 .abouteTitle {
   text-align: center;
