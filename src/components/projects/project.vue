@@ -78,7 +78,6 @@ export default {
   margin-top: 20px;
   font-size: 18px;
   width: 700px;
-  text-align: left;
 }
 .projectImg {
   width: 400px;

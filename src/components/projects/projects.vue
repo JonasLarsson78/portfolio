@@ -83,9 +83,11 @@ export default {
   transform: translate(-50%);
   width: 700px;
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .projectItems {
-  margin-top: 10px;
+  margin: 40px;
 }
 .projectShort {
   margin-left: 10px;
@@ -95,5 +97,6 @@ export default {
   height: 50px;
   border: 1px solid #004781;
   margin: 5px;
+  border-radius: 4px;
 }
 </style>
