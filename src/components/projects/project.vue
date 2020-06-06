@@ -72,8 +72,13 @@ export default {
   margin-top: 30px;
 }
 .projectDescription {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
   margin-top: 20px;
   font-size: 18px;
+  width: 700px;
+  text-align: left;
 }
 .projectImg {
   width: 400px;

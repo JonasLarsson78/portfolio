@@ -4,7 +4,7 @@ export const data = [
     name: 'Min Cv',
     img: 'cv',
     description:
-      'Detta är min cv som jag har gjort med hjälp av JavaScript och Vue.js.',
+      'Detta är min cv som jag har gjort med hjälp av JavaScript och Vue.js. Sidan är deployad på firebase och domänen registrerad på via Fsdata.',
     short: 'Min cv...',
     webpage: [
       {
