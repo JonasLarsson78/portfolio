@@ -58,7 +58,7 @@ export const data = [
     name: 'Chat',
     img: 'chat',
     description:
-      'I en av våra första LABar i skolan skulle vi bygga en chatcient med backend. Den är byggd med React.js ,Node.js och Socket.io',
+      'I en av våra första LAB:ar i skolan skulle vi bygga en chatcient med backend. Den är byggd med React.js ,Node.js och Socket.io',
     short: 'En chatcient...',
     webpage: [
       {
@@ -68,6 +68,10 @@ export const data = [
       {
         page: 'Github Backend',
         url: 'https://github.com/JonasLarsson78/mandatory-advanced-js1_backend',
+      },
+      {
+        page: 'Chat Live',
+        url: 'https://mario-chat-1021d.web.app/',
       },
     ],
   },
