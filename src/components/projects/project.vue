@@ -12,7 +12,7 @@
           :src="getImgUrl(this.project.img)"
           alt="test"
         />
-        <div v-if="project.webpage.length" class="projectLinkText">
+        <div class="projectLinkText">
           Länkar till projektet:
         </div>
         <div class="projectLinkContainer">

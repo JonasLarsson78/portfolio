@@ -58,7 +58,7 @@ export const data = [
     name: 'Chat',
     img: 'chat',
     description:
-      'I en av våra första LAB:ar i skolan skulle vi bygga en chatcient med backend. Den är byggd med React.js ,Node.js och Socket.io',
+      'I en av våra första LAB:ar i skolan skulle vi bygga en chatcient med backend. Den är byggd med React.js ,Node.js och Socket.io. För auth login skicka mail.',
     short: 'En chatcient...',
     webpage: [
       {
@@ -132,6 +132,28 @@ export const data = [
     description:
       'På min andra LIA fick vi hjälpa till att snygga till en Chatbot som Länsförsäkringar använder till sin kundtjänst. Man kan ställa frågorna till Leif istället för att störa sina kolleger och får där med ett effektivare arbete En digital kollega.',
     short: 'LIA2 Project...',
-    webpage: [],
+    webpage: [
+      {
+        page: 'none',
+        url: '',
+      },
+    ],
+  },
+  {
+    id: '9',
+    name: 'Keno 5',
+    img: 'keno',
+    description: 'Ett projekt när jag tränar på vue och vuex',
+    short: 'Välj ett nummer...',
+    webpage: [
+      {
+        page: 'Keno5',
+        url: 'https://keno-85797.firebaseapp.com/',
+      },
+      {
+        page: 'Github',
+        url: 'https://github.com/JonasLarsson78/keno',
+      },
+    ],
   },
 ];
